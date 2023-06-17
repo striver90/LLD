@@ -1,8 +1,12 @@
 Core functionality::
-List of current movies.
-Search for movies
-List down different shows for a movie.
-Registered users can book tickets.
+1) List of current movies.
+2) Search for movies
+3) List down different shows for a movie.
+4) Registered users can book tickets
+
+
+Thetre point of view::
+  Can Edit/add a show.
 
 Assumptions::
 1) Every theatre has a single screen.
