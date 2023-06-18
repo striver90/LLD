@@ -1,24 +1,35 @@
-Core functionality::
+# Actors
+1) Client/customers
+2) Theatre/movie providers
+3) System
+
+# Client :
 1) List of current movies.
 2) Search for movies
 3) List down different shows for a movie.
 4) Registered users can book tickets
 
 
-Thetre point of view::
-  Can Edit/add a show.
+### Theatre 
+  1) Edit/add a show.
+  2) Location
 
-Assumptions::
+### System
+Ticket Generation
+
+### Assumptions::
 1) Every theatre has a single screen.
-2) Nos of seats are there- some capacity exists
-3) Registered user can book tickets but guest users can search for a movie
-4) History of bookings.
-5) Language Support-
+2) There are some capacity exists i.e, nos of seats.
+3) Registered users can book tickets but guest users can search for a movie.
+4) Customer can book the tickets online or offline 
+5) History of bookings.
+6) Language Support-
    i) Hindi
    ii)English
-6) Genres:
+7) Genres:
    i) Action
    ii)Comedy
    iii)Romance
-7)Payment method
+8)Payment method
+
    
